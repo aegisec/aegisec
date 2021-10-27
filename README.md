@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
+  - aegisss@protonmail.com
+  - ryan@stactica.com
+- Websites
   - https://aegisec.org
   - https://stactica.com
 - Social Media
