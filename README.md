@@ -43,7 +43,7 @@
 
 ### Platforms
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="Kali Linux" width="26px" src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/master/kali-dragon/kali-dragon-(tattoo)/dragon-logo.png" />
+<img align="left" alt="Kali Linux" width="26px" src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/master/kali-logo-2016-with-dragon/kali-logo-dragon.png" />
 
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
