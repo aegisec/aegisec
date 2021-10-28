@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aegisec
+# 👋 Hi, I’m @aegisec
 - 👀 I’m interested in ...
   - Software
   - Privacy
