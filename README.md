@@ -12,7 +12,7 @@
   - aegisss@protonmail.com
   - ryan@stactica.com
 - Websites
-  - https://aegisec.org
+  - https://privsec.org
   - https://stactica.com
 - Social Media
   - @aegisec
